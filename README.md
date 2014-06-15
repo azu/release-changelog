@@ -16,6 +16,11 @@ Must
 * [Git Commit Guidelines](https://github.com/ajoslin/conventional-changelog/blob/master/CONVENTIONS.md "Git Commit Guidelines")
 
 
+This CLI work the same way as [release-it](https://github.com/webpro/release-it#configuration "webpro/release-it").
+
+``` sh
+release-changelog [version] [options]
+```
 
 ## Contributing
 
