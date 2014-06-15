@@ -1,3 +1,11 @@
+## 0.5.0 (2014-06-15)
+
+
+#### Features
+
+* **changelog:** silent log ([1b35a938](https://github.com/azu/release-changelog//commit/1b35a9386d91bcd4d2c1b5964842ec188bb9fcec))
+
+
 ## 0.4.0 (2014-06-15)
 
 
