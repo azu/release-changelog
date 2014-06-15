@@ -1,13 +1,14 @@
 {
   "name": "release-changelog",
   "description": "release it + conventional-changelog cli",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "homepage": "https://github.com/azu/release-changelog/",
   "repository": {
     "type": "git",
     "url": "https://github.com/azu/release-changelog.git"
   },
-  "main": "index.js",
+  "bin": "./bin/cli.js",
+  "main": "./lib/release-changelog.js",
   "scripts": {
     "test": "mocha test/*.js"
   },
