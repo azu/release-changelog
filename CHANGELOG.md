@@ -1,3 +1,11 @@
+### 0.5.4 (2014-06-15)
+
+
+#### Bug Fixes
+
+* **changelog:** strip last slash of homepage url ([81344e33](https://github.com/azu/release-changelog//commit/81344e3341fe1f93d809cfc527047069199afc45))
+
+
 ### 0.5.3 (2014-06-15)
 
 

@@ -1,7 +1,7 @@
 {
   "name": "release-changelog",
   "description": "release it + conventional-changelog cli",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "homepage": "https://github.com/azu/release-changelog/",
   "repository": {
     "type": "git",
