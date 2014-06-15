@@ -24,6 +24,7 @@
     "bluebird": "^2.1.1",
     "conventional-changelog": "https://github.com/azu/conventional-changelog/archive/promises-book.tar.gz",
     "optimist": "^0.6.1",
-    "release-it": "0.0.6"
+    "release-it": "0.0.6",
+    "semver": "^2.3.0"
   }
 }
