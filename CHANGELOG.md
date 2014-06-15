@@ -1,3 +1,16 @@
+### 0.5.3 (2014-06-15)
+
+
+#### Bug Fixes
+
+* **changelog:**
+  * missing package.json ([4fa9a2f9](https://github.com/azu/release-changelog//commit/4fa9a2f9adf30eca38b71e2ba0041101d8c219de))
+  * remove unnecessity assert ([af7abaaa](https://github.com/azu/release-changelog//commit/af7abaaa7abe10d64bbf4367c18a5bd3ddbef14f))
+* **release-changelog:**
+  * resolve module ([a2940a33](https://github.com/azu/release-changelog//commit/a2940a33694f8847b0489c5f8100ca858da443f1))
+  * fix release version ([6c600752](https://github.com/azu/release-changelog//commit/6c600752a3fbd076ddcc0678c74eb04758f783d5))
+
+
 ### 0.5.1 (2014-06-15)
 
 
