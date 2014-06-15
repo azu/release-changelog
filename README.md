@@ -2,6 +2,11 @@
 
 **Easy** to use [conventional-changelog](https://github.com/ajoslin/conventional-changelog "conventional-changelog") and [release-it](https://github.com/webpro/release-it "release-it").
 
+This CLI Work two things.
+
+* Generate a changelog from git metadata, using the AngularJS commit conventions -  [conventional-changelog](https://github.com/ajoslin/conventional-changelog "conventional-changelog")
+* Interactive release for Git and npm -  [release-it](https://github.com/webpro/release-it "release-it")
+
 ## Installation
 
 ```sh
