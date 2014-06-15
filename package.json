@@ -20,7 +20,8 @@
     "url": "https://github.com/azu/release-changelog/issues"
   },
   "dependencies": {
-    "conventional-changelog": "0.0.11",
+    "bluebird": "^2.1.1",
+    "conventional-changelog": "https://github.com/azu/conventional-changelog/archive/promises-book.tar.gz",
     "release-it": "0.0.6"
   }
 }
