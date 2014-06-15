@@ -10,9 +10,9 @@ npm install -g release-changelog
 
 ## Usage
 
-Must
+**Must**
 
-* You have to set `homepage` fileld to `package.json`
+* You have to set `homepage` field to `package.json`
 * [Git Commit Guidelines](https://github.com/ajoslin/conventional-changelog/blob/master/CONVENTIONS.md "Git Commit Guidelines")
 
 
