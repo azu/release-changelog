@@ -1,0 +1,26 @@
+{
+  "name": "release-changelog",
+  "description": "release it + conventional-changelog cli",
+  "version": "0.0.1",
+  "homepage": "https://github.com/azu/release-changelog/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/release-changelog.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/release-changelog/issues"
+  },
+  "dependencies": {
+    "conventional-changelog": "0.0.11",
+    "release-it": "0.0.6"
+  }
+}
