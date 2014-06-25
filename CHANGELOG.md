@@ -1,3 +1,11 @@
+### 0.5.5 (2014-06-25)
+
+
+#### Features
+
+* **changelog:** add cli option ([ed08b725](https://github.com/azu/release-changelog/commit/ed08b725b603f5e433ece2f0b5825b3b5d13b9e6))
+
+
 ### 0.5.4 (2014-06-15)
 
 
