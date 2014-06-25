@@ -1,3 +1,20 @@
+### 0.6.1 (2014-06-25)
+
+
+#### Bug Fixes
+
+* **changelog:**
+  * wrong arguments ([d21a9faa](https://github.com/azu/release-changelog/commit/d21a9faa66e6f7a19884271562e6e0a140c2034a))
+  * wrong option position ([b26d026d](https://github.com/azu/release-changelog/commit/b26d026d413bb17d505c2e1c27d087871b6e8a51))
+
+
+#### Features
+
+* **changelog:**
+  * debug option as ConventialOption ([888ff419](https://github.com/azu/release-changelog/commit/888ff419698e9e11bfd4a9e2771b9d3e9689f340))
+  * add ^docs for grep ([c88ce137](https://github.com/azu/release-changelog/commit/c88ce1375bd7853c0dad8c5b23d482c9bdbe1ec8))
+
+
 ## 0.6.0 (2014-06-25)
 
 
