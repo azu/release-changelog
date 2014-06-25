@@ -1,3 +1,11 @@
+## 0.6.0 (2014-06-25)
+
+
+#### Bug Fixes
+
+* **changelog:** fix passing version ([6f9e2529](https://github.com/azu/release-changelog/commit/6f9e252942ffe1a6cb784615aca44a85a0dd5660))
+
+
 ### 0.5.5 (2014-06-25)
 
 
