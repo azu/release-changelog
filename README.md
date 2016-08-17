@@ -1,10 +1,10 @@
 # release-changelog
 
-**Easy** to use [conventional-changelog](https://github.com/ajoslin/conventional-changelog "conventional-changelog") and [release-it](https://github.com/webpro/release-it "release-it").
+**Easy** to use [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog "conventional-changelog") and [release-it](https://github.com/webpro/release-it "release-it").
 
 This CLI Work two things.
 
-* Generate a changelog from git metadata, using the AngularJS commit conventions -  [conventional-changelog](https://github.com/ajoslin/conventional-changelog "conventional-changelog")
+* Generate a changelog from git metadata, using the AngularJS commit conventions -  [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog "conventional-changelog")
 * Interactive release for Git and npm -  [release-it](https://github.com/webpro/release-it "release-it")
 
 ## Installation
@@ -18,7 +18,7 @@ npm install -g release-changelog
 **Must**
 
 * You have to set `homepage` field to `package.json`
-* [Git Commit Guidelines](https://github.com/ajoslin/conventional-changelog/blob/master/CONVENTIONS.md "Git Commit Guidelines")
+* [Git Commit Guidelines](https://github.com/conventional-changelog/conventional-changelog-angular/blob/master/convention.md "Git Commit Guidelines")
 
 
 This CLI work the same way as [release-it](https://github.com/webpro/release-it#configuration "webpro/release-it").
